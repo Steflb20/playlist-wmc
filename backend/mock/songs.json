@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Sweet Child o' Mine",
+    "artist": "Guns N' Roses",
+    "duration": [5, 56],
+    "inPlaylist": false
+  },
+  {
+    "title": "Billie Jean",
+    "artist": "Michael Jackson",
+    "duration": [4, 54],
+    "inPlaylist": false
+  },
+  {
+    "title": "Like a Virgin",
+    "artist": "Madonna",
+    "duration": [3, 30],
+    "inPlaylist": false
+  },
+  {
+    "title": "Every Breath You Take",
+    "artist": "The Police",
+    "duration": [4, 13],
+    "inPlaylist": false
+  },
+  {
+    "title": "Livin' on a Prayer",
+    "artist": "Bon Jovi",
+    "duration": [4, 10],
+    "inPlaylist": false
+  }
+]
